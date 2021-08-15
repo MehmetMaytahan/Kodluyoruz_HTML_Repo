@@ -30,6 +30,12 @@ body{
     height: 120px;
     width: 100px;
 }
+.list{
+    padding-left: 20%;
+    text-align: left;
+    padding-top: 10px;
+    font-size: large;
+}
 
 
 
