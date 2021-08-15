@@ -1,0 +1,35 @@
+body{
+    background-image: url('img/bg1.jpg');
+    background-repeat: initial;
+    color: lightblue;
+    text-align: center;
+}
+.text-book{
+    color:lightyellow;
+}
+.text-font{
+    font-size: large;
+    margin-left: 120px;
+}
+.like-book{
+    float: left;
+    max-width: 49%;
+}
+.like-movie{
+    float: right;
+    max-width: 49%;
+}
+.img-book{
+    margin-left: 15px;
+    float: left;
+}
+.book{
+    height: 120px;
+}
+.movie{
+    height: 120px;
+    width: 100px;
+}
+
+
+
